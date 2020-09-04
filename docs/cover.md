@@ -4,7 +4,7 @@ Activate the cover feature by setting `coverpage` to **true**, compare [coverpag
 
 ## Basic usage
 
-hello world
+hello world2
 
 Set `coverpage` to **true**, and create a `_coverpage.md`:
 
